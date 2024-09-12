@@ -21,7 +21,7 @@ repository               :
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "13bde06088aae8444a0d578ff16f7ec.png"
   name             : "Qianzhe Xu"
   pronouns         : # example: "she/her"  
   bio              : ""
