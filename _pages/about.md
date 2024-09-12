@@ -12,6 +12,6 @@ I’m a Master Degree Candidate from School of of mechanical and electrical engi
 
 You can find my CV here: [Qianzhe Xu's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](xuqianzhe@gmail.com) 
+Email:xuqianzhe@gmail.com
 
 
